@@ -2,11 +2,11 @@
 (Popcorn Picks is a sophisticated movie recommendation system that leverages content-based filtering to suggest films based on their attributes and content.)
 
 Types of Recommendation System :-
-Content-Based Filtering: This method recommends movies similar to those the user has enjoyed by analyzing the content's attributes.
+Content-Based Filtering:- This method recommends movies similar to those the user has enjoyed by analyzing the content's attributes.
 
 Project Flow:-
-Dataset : Utilized the TMDB 5000 movie dataset for a rich and diverse collection of film data.
-Link :- https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+Dataset : Utilized the TMDB 5000 movie dataset for a rich and diverse collection of film data.   
+  Link :- https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 Data Preprocessing:
 Employed sklearn's feature extraction for effective text vectorization.
